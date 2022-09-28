@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# Hello World Conflict dari Surya
-=======
-# Hello World Conflict dari Fadla
->>>>>>> 3bbfb1e50c7eb0275e23919ad7963102de8383f2
+# Hello World Conflict dari Surya dan Fadla
+
 
 ## Test dari Surya
 
